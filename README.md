@@ -1,0 +1,3 @@
+## AndroidxTypescriptRunner
+
+Just test project.
