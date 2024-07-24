@@ -35,8 +35,8 @@ class JsEngine private constructor(
     @Language("json") val compileOptions = """
     { 
       "compilerOptions": {
-        "module": "ES2015",
-        "target": "ES2015",
+        "module": "NONE",
+        "target": "ES3",
         "moduleResolution": "classic"
       }
     }
