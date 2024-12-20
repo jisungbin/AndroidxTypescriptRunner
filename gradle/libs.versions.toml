@@ -2,7 +2,7 @@
 gradle-android = "8.7.3"
 
 kotlin-core = "2.0.0"
-kotlin-coroutines = "1.9.0" # K2
+kotlin-coroutines = "1.10.1" # K2
 
 androidx-activity = "1.9.3"
 androidx-jsEngine = "1.0.0-beta01"
