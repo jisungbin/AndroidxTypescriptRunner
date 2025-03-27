@@ -13,7 +13,7 @@ compose-activity = "1.10.1"
 okio = "3.10.2"
 okhttp = "5.0.0-alpha.14"
 moshi-runtime = "1.15.2"
-moshi-extensions = "0.29.0"
+moshi-extensions = "0.30.0"
 
 spotless = "6.25.0"
 ktlint = "1.5.0"
