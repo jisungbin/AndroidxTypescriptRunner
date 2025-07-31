@@ -1,5 +1,5 @@
 [versions]
-gradle-android = "8.11.1"
+gradle-android = "8.12.0"
 
 kotlin-core = "2.0.0"
 kotlin-coroutines = "1.10.2" # K2
