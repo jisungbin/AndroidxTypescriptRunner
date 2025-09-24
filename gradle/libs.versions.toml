@@ -7,7 +7,7 @@ kotlin-coroutines = "1.10.2" # K2
 androidx-activity = "1.11.0"
 androidx-jsEngine = "1.0.0"
 
-compose-material3 = "1.3.2"
+compose-material3 = "1.4.0"
 compose-activity = "1.11.0"
 
 okio = "3.16.0"
