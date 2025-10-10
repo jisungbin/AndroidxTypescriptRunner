@@ -10,7 +10,7 @@ androidx-jsEngine = "1.0.0"
 compose-material3 = "1.4.0"
 compose-activity = "1.11.0"
 
-okio = "3.16.0"
+okio = "3.16.1"
 okhttp = "5.2.1"
 moshi-runtime = "1.15.2"
 moshi-extensions = "0.32.0"
